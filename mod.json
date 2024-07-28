@@ -1,0 +1,9 @@
+{
+	"name": "cut-tungsten-plus-grates",
+	"displayName": "cut tungsten plus grates",
+	"author":"petalflowerr",
+	"description": "metal block",
+	"version": "1.0",
+	"minGameVersion": 146,
+	"hidden": true
+}
